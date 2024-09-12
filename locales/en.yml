@@ -1,0 +1,8 @@
+button:
+  back: Back
+  submit: Submit
+intro:
+  title: TWN's Vue Starter
+  desc: Vue 3 + Vite + Typescript + UnoCSS + Many Vite plugins ...
+  name: What's your name?
+not-found: Not found

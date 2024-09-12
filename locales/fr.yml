@@ -1,0 +1,8 @@
+button:
+  back: Retour
+  submit: Envoyer
+intro:
+  title: Starter Vue de TWN
+  desc: Vue 3 + Vite + Typescript + UnoCSS + Plein de plugins Vite ...
+  name: Quel est votre nom ?
+not-found: Page non trouvée
