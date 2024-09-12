@@ -4,8 +4,6 @@
         <div class="text-sm text-gray-700 dark:text-gray-200">
             <p>Email: <a href="mailto:boulliaux@et.intechinfo.fr"
                     class="underline hover:text-purple-400 transition-all">boulliaux@et.intechinfo.fr</a></p>
-            <p>Phone: <a href="tel:+33764398477" class="underline hover:text-purple-400 transition-all">07 64 39 84
-                    77</a></p>
             <p>Available for freelance or full-time opportunities</p>
         </div>
     </div>

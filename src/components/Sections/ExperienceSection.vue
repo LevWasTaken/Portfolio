@@ -1,5 +1,7 @@
 <template>
     <div class="flex flex-col py-12 px-4 md:px-10 lg:px-24 transition-colors duration-300">
+        <h1 class="text-3xl font-bold text-center">Experience</h1>
+
         <!-- Timeline Container -->
         <div class="relative">
 
